@@ -1,0 +1,3 @@
+16 Sept 2022
+
+1. Pisahkan kelas fungsi pengecekan dengan datamarga
