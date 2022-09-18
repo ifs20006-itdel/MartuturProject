@@ -70,6 +70,7 @@ public class DataMarga {
         Marga.add(Siahaan);
         Marga.add(SiOpatPisoran);
         Marga.add(Nairasaon);
+        //a comment
     }
 
 }
